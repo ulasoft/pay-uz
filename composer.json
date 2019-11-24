@@ -1,11 +1,11 @@
 {
-    "name": "goodoneuz/pay-uz",
+    "name": "ulasoft/pay-uz",
     "description": "Payment: Click, Payme, Uzcard, Visa",
     "keywords": [
-        "goodoneuz",
+        "ulasoft",
         "pay-uz"
     ],
-    "homepage": "https://github.com/goodoneuz/pay-uz",
+    "homepage": "https://github.com/ulasoft/pay-uz",
     "license": "MIT",
     "type": "library",
     "authors": [
